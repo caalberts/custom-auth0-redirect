@@ -1,0 +1,10 @@
+{
+  "name":"Custom auth0 Authentication",
+  "description":"Sample code for custom OAuth2 connections with Auth0 redirect mode",
+  "scripts":{},
+  "env": {
+    "CUSTOMAUTH_AUTH0_CLIENTID": { "required": true },
+    "CUSTOMAUTH_AUTH0_SECRET": { "required": true }
+  },
+  "addons":[]
+}
